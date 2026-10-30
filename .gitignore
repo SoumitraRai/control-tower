@@ -1,0 +1,9 @@
+node_modules/
+dist/
+release/
+.DS_Store
+
+# Kept out of this repo: the browser extension, its packaging script and internal docs.
+/extension/
+/scripts/
+/README.md
